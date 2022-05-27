@@ -1,0 +1,140 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:0px;
+  width:175px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u599 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u600 label {
+  left:0px;
+  width:100%;
+}
+#u600_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:12px;
+}
+#u600 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:175px;
+  height:21px;
+  display:flex;
+}
+#u600 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 2px 0px 2px;
+  box-sizing:border-box;
+}
+#u600_img.selected {
+}
+#u600.selected {
+}
+#u600_img.disabled {
+}
+#u600.disabled {
+}
+#u600_img.selectedDisabled {
+}
+#u600.selectedDisabled {
+}
+#u600_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:159px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u600_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
+#u601 label {
+  left:0px;
+  width:100%;
+}
+#u601_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:12px;
+  height:12px;
+}
+#u601 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:23px;
+  width:175px;
+  height:21px;
+  display:flex;
+}
+#u601 .text {
+  position:absolute;
+  align-self:center;
+  padding:0px 2px 0px 2px;
+  box-sizing:border-box;
+}
+#u601_img.selected {
+}
+#u601.selected {
+}
+#u601_img.disabled {
+}
+#u601.disabled {
+}
+#u601_img.selectedDisabled {
+}
+#u601.selectedDisabled {
+}
+#u601_text {
+  border-width:0px;
+  position:absolute;
+  left:14px;
+  top:0px;
+  width:159px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u601_input {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+  opacity:0;
+}
